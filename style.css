@@ -1,1 +1,39 @@
+body{
+  background-color: #333333;
+  color: #eeeeee;
+  font-family: Times New Roman, sans-serif;
+  margin: 10%
+}
+h1, h3{
+  text-decoration-line: underline;
+  text-align: center;
+}
+p{
+  text-align: center;
+}
+.summary{
+  border-bottom: 2px solid #eeeeee;
+}
+.skills{
+  border-bottom: 2px solid #eeeeee;
+}
+.skills h4{
+  text-decoration-line: underline;
+  text-align: center;
+}
+.work-experience{
+  text-decoration-line: underline;
+  text-align: center;
+}
+.experience-paragraph{
+  border-bottom: 2px solid #eeeeee;
+}
+.experience-paragraph h4, h5{
+  text-align: center;
+}
+.education h4{
+  text-decoration-line: underline;
+  text-align: center;
+}
+
 
