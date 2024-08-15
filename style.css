@@ -2,7 +2,13 @@ body{
   background-color: #333333;
   color: #eeeeee;
   font-family: Times New Roman, sans-serif;
-  margin: 10%;
+  margin: 10%
+}
+img{
+  width:750px;
+  border-radius: 10px;
+  position: relative;
+  top: 10px;
 }
 h1, h3{
   text-decoration-line: underline;
@@ -35,5 +41,4 @@ p{
   text-decoration-line: underline;
   text-align: center;
 }
-
 
